@@ -9,3 +9,4 @@ This repository contains all scripts and exercise files of the following lecture
 - Advanced Topics in Control
 - Analoge Schaltungen
 - Control Lab
+- Seminar Advanced Topics in Control
