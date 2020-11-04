@@ -1,6 +1,6 @@
 # Lecture Files
 
-This repository contains all scripts and exercise files of the following Lectures:
+This repository contains all scripts and exercise files of the following lectures:
 
 - Introduction to Control Systems
 - Control Systems Theory and Design
