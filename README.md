@@ -1,5 +1,7 @@
 # Lecture Files
 
+[![DOI](https://zenodo.org/badge/350864387.svg)](https://zenodo.org/badge/latestdoi/350864387)
+
 This repository contains all scripts and exercise files of the following lectures:
 
 - Introduction to Control Systems
